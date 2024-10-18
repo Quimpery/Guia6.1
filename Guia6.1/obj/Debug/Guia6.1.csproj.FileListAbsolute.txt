@@ -1,0 +1,10 @@
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\bin\Debug\Guia6.1.exe.config
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\bin\Debug\Guia6.1.exe
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\bin\Debug\Guia6.1.pdb
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\obj\Debug\Guia6.1.csproj.AssemblyReference.cache
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\obj\Debug\Guia6._1.Form1.resources
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\obj\Debug\Guia6._1.Properties.Resources.resources
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\obj\Debug\Guia6.1.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\obj\Debug\Guia6.1.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\obj\Debug\Guia6.1.exe
+C:\Users\lauta\source\repos\Guia6.1\Guia6.1\obj\Debug\Guia6.1.pdb
